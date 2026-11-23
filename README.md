@@ -5,3 +5,15 @@ This is my first practical GitOps project
 Environment: AWS EC2 ubuntu
 Version Control: Git
 Future Tools: Docker, Kubernetes, Argo CD
+
+GitOps Tools:
+- Git
+- GitHub
+- Docker
+- Kubernetes
+- ArgoCDGitOps Tools:
+- Git
+- GitHub
+- Docker
+- Kubernetes
+- ArgoCD
